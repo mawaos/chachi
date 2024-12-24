@@ -17,7 +17,16 @@ const theme = createTheme({
     },
     sub: {
       main: '#E8C547',
-    }
+    },
+  },
+  typography: {
+    fontFamily: 'Roboto, sans-serif',
+    h1: {
+      color: '#5C80BC',
+    },
+    body1: {
+      color: '#cdd1c4',
+    },
   },
 })
 
